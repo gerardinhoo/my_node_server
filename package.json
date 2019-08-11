@@ -1,0 +1,23 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "Working with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardinhoo/my_node_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardinhoo/my_node_server/issues"
+  },
+  "homepage": "https://github.com/gerardinhoo/my_node_server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
